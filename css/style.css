@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient( rgb(138, 4, 228), rgb(247, 6, 206));
+}
+
+.fas {
+    cursor: pointer;
+}
+
+label {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#enter-data {
+    background-color: #fff;
+}
+
+.warn {
+    font-size: 1.5rem;
+}
